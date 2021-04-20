@@ -1,9 +1,10 @@
 # Energy A.I. Hackathon 2021 Workflow - ANTICLINE 
 
-#### Authors:  [Esmail Eltahan](https://www.linkedin.com/in/esmaileltahan/), [Jonghyeon Jeon](https://www.linkedin.com/in/jhjeon/), [Mehran Mehrabi](https://www.linkedin.com/in/mehran-mehrabi/), and [Wen Pan](https://www.linkedin.com/in/wen-pan),  
-####  Hildebrand Department of Petroleum and Geosystems Engineering, The University of Texas at Austin, Austin, Texas USA 
+## Authors:  [Esmail Eltahan](https://www.linkedin.com/in/esmaileltahan/), [Jonghyeon Jeon](https://www.linkedin.com/in/jhjeon/), [Mehran Mehrabi](https://www.linkedin.com/in/mehran-mehrabi/), and [Wen Pan](https://www.linkedin.com/in/wen-pan),  
+###  Hildebrand Department of Petroleum and Geosystems Engineering, The University of Texas at Austin, Austin, Texas USA 
 
 <img src="https://raw.githubusercontent.com/PGEHackathon/ANTICLINE/main/anticline_official_logo.png?token=ANMA2EZ6IRQ7IZEI5KDH4A3AQTOFC" width=300 />
+
 ## Hosts: [Prof. Michael Pyrcz](https://twitter.com/GeostatsGuy) and [Prof. John Foster](https://twitter.com/johntfoster)
 
 ### Architects: [Honggen Jo](https://twitter.com/HonggeunJ) and Mingyuan Yang
