@@ -14,7 +14,7 @@
 ### Organization and Student Engagement: Gabby Banales and Sara Hernando
 
 ___
-This repository contains Team's Anticline work for the Energy A.I. 2021 Hackathon. The problem we worked on is described below, and our work and our code are summarized in [Hackathon_Anticline_Final](https://github.com/estahhan/ANTICLINE-AI-HACKATHON/blob/main/Hackathon_Anticline_Final.ipynb)
+This repository contains Team's Anticline work for the Energy A.I. 2021 Hackathon. The problem we worked on is described below. Our workflow and core pieces of the code are summarized in [Hackathon_Anticline_Final](https://github.com/estahhan/ANTICLINE-AI-HACKATHON/blob/main/Hackathon_Anticline_Final.ipynb)
 ### Energy A.I. Problem Description 
 
 **Goal**: develop a data analytics and machine learning workflow in Python to predict estimates and uncertainty models for cumulative oil 3 year production for **10 unproduced wells**. 
